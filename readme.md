@@ -1,3 +1,7 @@
+# This Fork
+
+This fork attemps to (hopefully) remove the iOS 5 and ARC dependency. (Don't ask.)
+
 # TSPopover
 
 UIPopover like UI (with ActionSheet) for iPhone - there is lot's of work still to do.
